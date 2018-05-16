@@ -3,7 +3,7 @@
 """
 Main file. Contains program execution logic.
 """
-print('Добавление новой записи в файл')
+
 from __future__ import print_function
 
 import inspect
